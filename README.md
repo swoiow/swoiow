@@ -1,7 +1,7 @@
 <div align="center" >
 <h4>👋 Hi, I’m Ricky.</h4>
-<p>👀 I’m interested in Python, Goalng, Rust, Java.</p>
-<p>🌱 I’m currently learning Goalng, Java.</p>
+<p>👀 I’m interested in Python, Golang, Rust, Java.</p>
+<p>🌱 I’m currently learning Golang, Java.</p>
 </div>
 
 <div align="center" >
