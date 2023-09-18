@@ -6,7 +6,7 @@
 
 <div align="center" >
 <h4>基于Cloudflare的Pypi的Mirror</h4>
-<code>pip install -i https://pypi.pylab.me xxx</code>
+<code>pip install -i https://pip.pylab.me xxx</code>
 </div>
 
 <div align="center" >
