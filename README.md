@@ -5,12 +5,12 @@
 </div>
 
 <div align="center" >
-<h4>基于Cloudflare的Pypi的Mirror</h4>
+<h4>Cloudflare-Based PyPI Mirror（基于 Cloudflare 的 PyPI 镜像）</h4>
 <code>pip install -i https://pip.pylab.me xxx</code>
 </div>
 
 <div align="center" >
-<h4>基于Cloudflare的Docker的Mirror</h4>
+<h4>Cloudflare-Based Docker Mirror（基于 Cloudflare 的 Docker 镜像）</h4>
 <code>echo '{"registry-mirrors": ["https://docker.pylab.me"]}' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker</code>
 </div>
 
