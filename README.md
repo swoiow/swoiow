@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="overflow: hidden;">
   
 ## 👋 Hi, I’m Ricky.
   
