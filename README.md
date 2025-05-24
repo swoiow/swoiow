@@ -1,20 +1,22 @@
-<div align="center" style="overflow: hidden;">
+<div align="" style="overflow: hidden;">
   
-## 👋 Hi, I’m Ricky.
-  
-👀 **I’m interested in**: Python, Golang, Rust, Java.  
-🌱 **I’m currently learning**: Golang, Java.
+# 👋 Hi, I’m Ricky.
+
+🎯 **Background**: Former AAM backend developer | Current Data Analyst  
+📚 **Hobbies**: Reading, Programming, Exploring system architectures  
+🚀 **Tech Stack**: Python · Golang · Rust · Java  
+🧠 **Learning Now**: Golang · Java · Data Visualization · Cloud Infrastructure
 
 ---
 
-## 🌍 Cloudflare-Based Mirrors
+## 🌐 Cloudflare-Based Mirrors
 
-### 🚀 Cloudflare-Based PyPI Mirror（基于 Cloudflare 的 PyPI 镜像）
+### 📦 PyPI Mirror
 ```bash
-pip install -i https://pip.pylab.me xxx
+pip install -i https://pip.pylab.me <package>
 ```
 
-### 🐳 Cloudflare-Based Docker Mirror（基于 Cloudflare 的 Docker 镜像）
+### 🐳 Docker Mirror
 ```bash
 echo '{"registry-mirrors": ["https://docker.pylab.me"]}' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker
 ```
