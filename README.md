@@ -16,11 +16,6 @@
 pip install -i https://pip.pylab.me <package>
 ```
 
-### 🐳 Docker Mirror
-```bash
-echo '{"registry-mirrors": ["https://docker.pylab.me"]}' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker
-```
-
 ---
 
 ## 📊 GitHub Stats
