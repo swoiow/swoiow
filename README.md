@@ -18,9 +18,9 @@ pip install -i https://pip.pylab.me <package>
 
 ---
 
-## 📊 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swoiow&theme=nord_bright)
 
-<img height="145px" src="https://github-readme-stats.vercel.app/api?username=swoiow&show_icons=true&hide_title=true&hide_border=true&custom_title=GitHub%20Stats" />  
-<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swoiow&hide_title=true&hide_border=true&layout=compact" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swoiow&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swoiow&theme=vue)
 
 </div>
