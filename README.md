@@ -2,14 +2,19 @@
 
 # 👋 Hi, I’m Ricky.
 
-**Former AAM backend developer | Current Data Analyst** 📚 Reading · Programming · System Architectures  
-🚀 Python · Golang · Rust · Java  
-🧠 Learning: Golang · Java · Data Visualization · Cloud Infrastructure
+🎯 **Background**: Former AAM backend developer | Current Data Analyst  
+📚 **Hobbies**: Reading, Programming, Exploring system architectures  
+🚀 **Tech Stack**: Python · Golang · Rust · Java  
+🧠 **Learning Now**: Golang · Java · Data Visualization · Cloud Infrastructure
 
 ---
 
-### 🌐 Cloudflare-Based Mirrors
-`pip install -i https://pip.pylab.me <package>`
+## 🌐 Cloudflare-Based Mirrors
+### 📦 PyPI Mirror
+
+```bash
+pip install -i https://pip.pylab.me <package>
+```
 
 ---
 
