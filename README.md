@@ -23,36 +23,26 @@ pip install -i https://pip.pylab.me <package>
 ## Engineering footprint
 
 <!-- PROFILE_METRICS:CARDS:START -->
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/overview-dark.svg?v=cac330889551" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/overview-light.svg?v=9c1c84079379" width="560" alt="Overview metrics" />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-dark.svg?v=fef27d864dc1" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-light.svg?v=8b7f93ddb908" width="560" alt="Visibility metrics" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-dark.svg?v=67606785dcbc" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-light.svg?v=1f1491ac3eb8" width="560" alt="Languages metrics" />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-dark.svg?v=07a9cc14dd11" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-light.svg?v=f1346735b36c" width="560" alt="Organizations metrics" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/overview-dark.svg?v=a47d175bb199" />
+    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/overview-light.svg?v=af8fea91a0be" width="48%" alt="Overview metrics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-dark.svg?v=9c58dd36a9ab" />
+    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-light.svg?v=7c9a545ca041" width="48%" alt="Visibility metrics" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-dark.svg?v=33f952c34579" />
+    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-light.svg?v=7a2b9fc4c3d1" width="48%" alt="Languages metrics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-dark.svg?v=61bf36a6ff65" />
+    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-light.svg?v=28109c1e56cc" width="48%" alt="Organizations metrics" />
+  </picture>
+</p>
 <!-- PROFILE_METRICS:CARDS:END -->
 
 <sub>Updated daily by a centralized GitHub App. These cards use repository metadata only; private repository names and code histories are not published. Languages represent GitHub-reported language bytes, not commit contributions. Recent activity refers to repository `pushed_at` timestamps, not author commits. Commit, PR, Issue and Review collection remains on hold. Statistics include only repositories authorized to the Reader App; scheduled updates are best-effort.</sub>
