@@ -20,17 +20,10 @@ pip install -i https://pip.pylab.me <package>
 
 </div>
 
-<!-- PROFILE_METRICS:START -->
 ## Engineering footprint
 
-Updated daily by centralized GitHub App automation. This section uses **repository metadata only**; source code and commit history are never collected. Private repository names are not published.
-
+<!-- PROFILE_METRICS:CARDS:START -->
 <table width="100%" align="center">
-  <!--     <tr> -->
-  <!--     <td colspan="2" align="center"> -->
-  <!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swoiow&theme=nord_bright" width="100%"/> -->
-  <!--     </td> -->
-  <!--   </tr> -->
   <tr>
     <td width="50%" align="center">
       <picture>
@@ -51,7 +44,6 @@ Updated daily by centralized GitHub App automation. This section uses **reposito
       </picture>
     </td>
   </tr>
-
   <tr>
     <td width="50%" align="center">
       <picture>
@@ -73,6 +65,6 @@ Updated daily by centralized GitHub App automation. This section uses **reposito
     </td>
   </tr>
 </table>
+<!-- PROFILE_METRICS:CARDS:END -->
 
-<sub>Languages = GitHub-reported language bytes; recent activity = repository `pushed_at` timestamps, not commit counts. Git Commit / PR / Issue / Review metrics are ON HOLD. All ratios refer only to repositories granted to the App. GitHub Actions runs on a best-effort daily schedule.</sub>
-<!-- PROFILE_METRICS:END -->
+<sub>Updated daily by a centralized GitHub App. These cards use repository metadata only; private repository names and code histories are not published. Languages represent GitHub-reported language bytes, not commit contributions. Recent activity refers to repository `pushed_at` timestamps, not author commits. Commit, PR, Issue and Review collection remains on hold. Statistics include only repositories authorized to the Reader App; scheduled updates are best-effort.</sub>
