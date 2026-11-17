@@ -1,10 +1,8 @@
-<div align="" style="overflow: hidden;">
-
 # 👋 Hi, I’m Ricky.
 
-🎯 **Background**: Former AAM backend developer | Current Data Analyst  
-📚 **Hobbies**: Reading, Programming, Exploring system architectures  
-🚀 **Tech Stack**: Python · Rust · Golang/Java  
+🎯 **Background**: Former AAM backend developer | Current Data Analyst
+📚 **Hobbies**: Reading, Programming, Exploring system architectures
+🚀 **Tech Stack**: Python · Rust · Golang/Java
 🧠 **Learning Now**: Rust · Golang/Java · Data Visualization · Cloud Infrastructure
 
 ---
@@ -18,7 +16,6 @@ pip install -i https://pip.pylab.me <package>
 
 ---
 
-</div>
 
 ## Engineering footprint
 
@@ -33,4 +30,9 @@ pip install -i https://pip.pylab.me <package>
 </p>
 <!-- PROFILE_METRICS:CARDS:END -->
 
-<sub>Updated daily by a centralized GitHub App. These cards use repository metadata only; private repository names and code histories are not published. Languages represent GitHub-reported language bytes, not commit contributions. Recent activity refers to repository `pushed_at` timestamps, not author commits. Commit, PR, Issue and Review collection remains on hold. Statistics include only repositories authorized to the Reader App; scheduled updates are best-effort.</sub>
+### About these metrics
+
+- **Coverage:** Only repositories authorized to the Reader App are counted; private repository names and source contents are not published.
+- **Languages:** GitHub-reported language bytes, not commit contributions.
+- **Activity:** Based on each repository's `pushed_at` timestamp, not the author's commit history.
+- **Updates:** Refreshed daily on a best-effort basis. Commit, PR, Issue, and Review statistics are not collected.
