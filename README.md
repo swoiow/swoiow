@@ -25,22 +25,10 @@ pip install -i https://pip.pylab.me <package>
 <!-- PROFILE_METRICS:CARDS:START -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/overview-dark.svg?v=a47d175bb199" />
-    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/overview-light.svg?v=af8fea91a0be" width="48%" alt="Overview metrics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-dark.svg?v=9c58dd36a9ab" />
-    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-light.svg?v=7c9a545ca041" width="48%" alt="Visibility metrics" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-dark.svg?v=33f952c34579" />
-    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-light.svg?v=7a2b9fc4c3d1" width="48%" alt="Languages metrics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-dark.svg?v=61bf36a6ff65" />
-    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-light.svg?v=28109c1e56cc" width="48%" alt="Organizations metrics" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-mobile-dark.svg?v=16e3fdcfe767" />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-mobile-light.svg?v=d6ae44aef421" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-desktop-dark.svg?v=261814c98e25" />
+    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-desktop-light.svg?v=6a0344e516d0" width="100%" alt="Repository metadata dashboard: overview, languages, source or freshness, and public/private visibility" />
   </picture>
 </p>
 <!-- PROFILE_METRICS:CARDS:END -->
