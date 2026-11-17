@@ -33,22 +33,22 @@ pip install -i https://pip.pylab.me <package>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-dark.svg?v=9b76db08a20c" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-light.svg?v=4677d6c41499" width="560" alt="Visibility metrics" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-dark.svg?v=048fcdd2775b" />
+        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/visibility-light.svg?v=415df4877bbe" width="560" alt="Visibility metrics" />
       </picture>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-dark.svg?v=8d3f1b75e0ad" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-light.svg?v=a1059c020832" width="560" alt="Languages metrics" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-dark.svg?v=108cc6df7cc3" />
+        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/languages-light.svg?v=c308e8145bac" width="560" alt="Languages metrics" />
       </picture>
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-dark.svg?v=3ba85e2a0bda" />
-        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-light.svg?v=747a8a5c0ce6" width="560" alt="Organizations metrics" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-dark.svg?v=0dc665e6f1f7" />
+        <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/organizations-light.svg?v=d1f945d513c1" width="560" alt="Organizations metrics" />
       </picture>
     </td>
   </tr>
