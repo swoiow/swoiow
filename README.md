@@ -2,9 +2,9 @@
 
 # 👋 Hi, I’m Ricky.
 
-🎯 **Background**: Former AAM backend developer | Current Data Analyst
-📚 **Hobbies**: Reading, Programming, Exploring system architectures
-🚀 **Tech Stack**: Python · Rust · Golang/Java
+🎯 **Background**: Former AAM backend developer | Current Data Analyst  
+📚 **Hobbies**: Reading, Programming, Exploring system architectures  
+🚀 **Tech Stack**: Python · Rust · Golang/Java  
 🧠 **Learning Now**: Rust · Golang/Java · Data Visualization · Cloud Infrastructure
 
 ---
