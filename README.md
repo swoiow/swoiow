@@ -22,10 +22,10 @@ pip install -i https://pip.pylab.me <package>
 <!-- PROFILE_METRICS:CARDS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-mobile-dark.svg?v=47b55d08bbf5" />
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-mobile-light.svg?v=9a67a5b63d5e" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-desktop-dark.svg?v=00250a4da58d" />
-    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-desktop-light.svg?v=90b1524c6d1f" width="100%" alt="Repository metadata dashboard: overview, languages, source or freshness, and public/private visibility" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-mobile-dark.svg?v=d513f200ed6e" />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-mobile-light.svg?v=8c0ed14a1728" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-desktop-dark.svg?v=304a36423bce" />
+    <img src="https://raw.githubusercontent.com/swoiow/swoiow/main/assets/metrics/dashboard-desktop-light.svg?v=27237c7ea036" width="100%" alt="Repository metadata dashboard: overview, languages, source or freshness, and public/private visibility" />
   </picture>
 </p>
 <!-- PROFILE_METRICS:CARDS:END -->
